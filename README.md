@@ -8,3 +8,6 @@ Sprawozdanie zawiera krótką instrukcję obsługi programu git oraz sposób "co
 
 ### Sprawozdanie 1
 Sprawozdanie zawiera Temat oraz Opis tematu projektu, Diagram przypadków użycia, Opis scenariuszy użycia, a także diagram aktywności 
+
+### Sprawozdanie 2
+Sprawozdanie zawiera diagram UML klas projektu
