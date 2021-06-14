@@ -11,3 +11,9 @@ Sprawozdanie zawiera Temat oraz Opis tematu projektu, Diagram przypadków użyci
 
 ### Sprawozdanie 2
 Sprawozdanie zawiera diagram UML klas projektu
+
+### Sprawozdanie 3
+Sprawozdanie zawiera diagramy sekwencji oraz stanów
+
+### Sprawozdanie 4
+Sprawozdanie zawiera scenariusze testowe wykonywane na poziomie graficznego interfejsu użytkownika(GUI)
